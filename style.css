@@ -56,6 +56,7 @@ video{
     height: 20vh;
     min-width: 500px;
     min-height: 300px;
+    background-color: #5a6362;
 }
 
 .project-container{
