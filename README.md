@@ -1,10 +1,14 @@
 # EverythingPiP
 ## Application using the Picture in Picture Api in order to increase the usage of screen space while working, watching tutorials, observing live changes on a website etc. 
 
-![image](https://user-images.githubusercontent.com/58565781/194853421-0329896c-dc79-43cd-b8b3-70bf37a4d6f8.png)
+
+![image](https://user-images.githubusercontent.com/58565781/194855577-793d3520-4183-4365-a110-c006e18d01c2.png)
+<img width="1128" alt="Code_iyBdpT0jBi" src="https://user-images.githubusercontent.com/58565781/194855608-62c2eff0-df36-4e99-a717-3b28aec9cd9d.png">
+
 
 ### Live version: 
 https://everythingpip.netlify.app/
+
 
 ### Instructions:
 
